@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenGL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GLAD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GLAD-Debug-d99c79d838959d681dfa.json",
+					"name" : "GLAD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PARTICLE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PARTICLE-Debug-b8840d0cc7308cd0ee09.json",
+					"name" : "PARTICLE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STB_IMAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STB_IMAGE-Debug-8401fdbf37fe7b3dd857.json",
+					"name" : "STB_IMAGE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "particle_system_instanced::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-particle_system_instanced-Debug-ed8fb960ad317863bd32.json",
+					"name" : "particle_system_instanced",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/saber/Desktop/OpenGL/build",
+		"source" : "/Users/saber/Desktop/OpenGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
