@@ -19,22 +19,26 @@ My university graduation project.
 
 <div align="center">
   <img src="./results/simple.gif" width=60% />
-  <center>Simple smoke particle system</center>
 </div>
+
+<center>Simple smoke particle system</center>
 
 <div align="center">
   <img src="./results/with_wind.gif" width=60% />
-  <center>Add in wind effect</center>
 </div>
+
+<center>Add in wind effect</center>
 
 <div align="center">
   <img src="./results/with_collision.gif" width=60% />
-  <center>Collide with ground</center>
 </div>
+
+<center>Collide with ground</center>
 
 <div align="center">
     <img src="./results/scene.gif" width=45% />
     <img src="./results/depth_visualization.gif" width=45% />
-  <center>Demo scene and Soft particle debug</center>
 </div>
+
+<center>Demo scene and Soft particle debug</center>
 
