@@ -4,7 +4,11 @@ My university graduation project.
 
 **Dependancies**
 
-- 
+- GLFW+GLEW
+- glm
+- SOIL
+- stb: stb_image
+- FreeType
 
 ### Features
 
